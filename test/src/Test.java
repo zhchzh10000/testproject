@@ -6,5 +6,6 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("hello idea");
         System.out.println("eee");
+        System.out.println("1111");
     }
 }
